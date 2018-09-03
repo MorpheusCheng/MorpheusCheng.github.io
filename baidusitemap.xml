@@ -5,14 +5,23 @@
     
   <url>
     <loc>https://MorpheusCheng.github.io/2018/08/30/hello-world/</loc>
-    <lastmod>2018-08-30T14:12:36.561Z</lastmod>
+    <lastmod>2018-09-03T01:08:13.275Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
         <pubTime>2018-08-30T14:12:36.560Z</pubTime>
         
+        <tag>开发工具</tag>
+         
+        <tag>test</tag>
+         
+        <tag>Markdown</tag>
+         
          
            
+             
+              <breadCrumb title="开发工具" url="https://MorpheusCheng.github.io/categories/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/"/>
+          
         </display>
     </data>
     </url>
